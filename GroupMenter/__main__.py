@@ -98,7 +98,7 @@ buttons = [
 
 
 HELP_STRINGS = """
-Hey There!! MY NAME IS 𓄂MR.KING ࿐
+Hey There!! MY NAME IS 𓄂MR KING ࿐
 I'm here to help you manage your groups!
 
 Commands available:
