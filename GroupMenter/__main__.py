@@ -74,7 +74,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-Hey there! My name is Group Menter.
+Hey there! My name is 𓄂MR KING ࿐ [🥰](https://telegra.ph/file/dfaa8031c948314ba2adf.jpg),
 I'm here to help you manage your groups!
 
 Hit /help to find out more about how to use me to my full potential.
@@ -83,11 +83,11 @@ Hit /help to find out more about how to use me to my full potential.
 buttons = [
     [
         InlineKeyboardButton(
-            text="➕️ ADD TO YOUR GROUP ➕️", url="https://t.me/GroupMenterRobot?startgroup=true"),
+            text="⚙️ ADD TO YOUR GROUP ⚙️", url="https://t.me/MR_KING_PRO_BOT?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="Updates", url="https://t.me/GroupMenterUpdates"),
-        InlineKeyboardButton(text="Support", url="https://t.me/GroupMenterGroup"),
+        InlineKeyboardButton(text="🎖️UPDATES🎖️", url="https://t.me/mrKINGsupport"),
+        InlineKeyboardButton(text="⚜️SUPPORT⚜️", url="https://t.me/mrKINGsupport"),
     ],
     [
         InlineKeyboardButton(
@@ -98,13 +98,13 @@ buttons = [
 
 
 HELP_STRINGS = """
-Hey There! My name is Group Menter.
+Hey There!! MY NAME IS 𓄂MR.KING ࿐
 I'm here to help you manage your groups!
 
 Commands available:
 × /start: Start the bot
 × /help: Give's you this message.
-× /donate: Information related on how to support my creator!
+
 
 All commands can either be used with / OR !.
 """
@@ -129,7 +129,7 @@ CHAT_SETTINGS = {}
 USER_SETTINGS = {}
 
 for module_name in ALL_MODULES:
-    imported_module = importlib.import_module("GroupMenter.modules." + module_name)
+    imported_module = importlib.import_module("𓄂MR KING ࿐" + module_name)
     if not hasattr(imported_module, "__mod_name__"):
         imported_module.__mod_name__ = imported_module.__name__
 
@@ -361,7 +361,7 @@ def groupmenter_about_callback(update: Update, context: CallbackContext):
     query = update.callback_query
     if query.data == "groupmenter":
         query.message.edit_text(
-            text=""" 🤖 I'm *Group Menter*, a powerful group management bot built to help you manage your group easily.
+            text=""" 🤖 I'm *𓄂MR KING ࿐*, a powerful group management bot built to help you manage your group easily.
                  
 ❍ I can restrict users.
                  
@@ -402,7 +402,7 @@ def Source_about_callback(update: Update, context: CallbackContext):
     query = update.callback_query
     if query.data == "source_":
         query.message.edit_text(
-            text=""" Hi..🤗 I'm *Group Menter*
+            text=""" Hi..🤗 I'm *𓄂MR KING ࿐*
                  \nHere is the [Source Code](https://github.com/TeamGroupMenter/GroupMenter) .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=False,
