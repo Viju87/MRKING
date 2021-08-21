@@ -74,7 +74,8 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-Hey there! My name is 𓄂MR KING ࿐ [🥰](https://telegra.ph/file/dfaa8031c948314ba2adf.jpg),
+Hey there![🥰](https://telegra.ph/file/dfaa8031c948314ba2adf.jpg), 
+My name is 𓄂MR KING ࿐ 
 I'm here to help you manage your groups!
 
 Hit /help to find out more about how to use me to my full potential.
