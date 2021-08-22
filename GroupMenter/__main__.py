@@ -84,7 +84,7 @@ Hit /help to find out more about how to use me to my full potential.
 buttons = [
     [
         InlineKeyboardButton(
-            text="⚙️ ADD TO YOUR GROUP ⚙️", url="https://t.me/MR_KING_PRO_BOT?startgroup=true"),
+            text="🙋‍♂️ ADD TO YOUR GROUP 🙋‍♂️", url="https://t.me/MR_KING_PRO_BOT?startgroup=true"),
     ],
     [
         InlineKeyboardButton(text="🎖️UPDATES🎖️", url="https://t.me/mrKINGsupport"),
@@ -375,7 +375,7 @@ def groupmenter_about_callback(update: Update, context: CallbackContext):
 ❍ I have a note keeping system, blacklists, and even predetermined replies on certain keywords.
                  
 ❍ I check for admins' permissions before executing any command and more stuffs
-                 \n_Group Menter's licensed under the GNU General Public License v3.0_
+                 
                  Here is the [DEVELOPER](https://https://t.me/vijay114220).
                  If you have any question about Group Menter, let us know at @GroupMenterUpdates.""",
             parse_mode=ParseMode.MARKDOWN,
