@@ -84,7 +84,7 @@ Hit /help to find out more about how to use me to my full potential.
 buttons = [
     [
         InlineKeyboardButton(
-            text="🙋‍♂️ ADD TO YOUR GROUP 🙋‍♂️", url="https://t.me/MR_KING_PRO_BOT?startgroup=true"),
+            text="⚙️ ADD TO YOUR GROUP ⚙️", url="https://t.me/MR_KING_PRO_BOT?startgroup=true"),
     ],
     [
         InlineKeyboardButton(text="🎖️UPDATES🎖️", url="https://t.me/mrKINGsupport"),
@@ -93,9 +93,9 @@ buttons = [
     [
         InlineKeyboardButton(
             text="Commands ❔", callback_data="help_back"
-     [  
-        InlineKeyboardButton(text="⚜️ OWNER ⚜️", url="https://t.me/VIJAY114220"
-     ], 
+    [  
+        InlineKeyboardButton(text="⚜️ OWNER ⚜️", url="https://t.me/VIJAY114220"),
+    ], 
   ),
 
     ],
