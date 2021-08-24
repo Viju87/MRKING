@@ -93,13 +93,15 @@ buttons = [
     [
         InlineKeyboardButton(
             text="Commands ❔", callback_data="help_back"
+        ),
+    ],
     [  
         InlineKeyboardButton(text="⚜️ OWNER ⚜️", url="https://t.me/VIJAY114220"),
     ], 
-  ),
-
-    ],
+  ],
 ]
+    
+
 
 
 HELP_STRINGS = """
