@@ -84,11 +84,11 @@ Hit /help to find out more about how to use me to my full potential.
 buttons = [
     [
         InlineKeyboardButton(
-            text="⚙️ ADD TO YOUR GROUP ⚙️", url="https://t.me/MR_KING_PRO_BOT?startgroup=true"),
+            text="🤭😂 GROUP MAI ADD KR BAHI 😂🤭", url="https://t.me/MR_KING_PRO_BOT?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="🎖️UPDATES🎖️", url="https://t.me/mrKINGsupport"),
-        InlineKeyboardButton(text="⚜️SUPPORT⚜️", url="https://t.me/mrKINGsupport"),
+        InlineKeyboardButton(text="🔱 OWNER 🔱", url="https://t.me/VIJAY114220"),
+        InlineKeyboardButton(text="⚜️JOIN HO JAO⚜️", url="https://t.me/SOME_ONE_SPECIAL"),
     ],
     [
         InlineKeyboardButton(
