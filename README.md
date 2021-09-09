@@ -34,7 +34,7 @@ An PowerFull Group Manager Bot. Written In Pytelethon.
 
 ### DEVES OF 𓄂MR.KING࿐
 
-**[DEVELOPER-VIJAY](https://github.com/VIJU60)** ▪ **[Shameel Habeeb](https://github.com/shamilhabeebnelli)** ▪ **[Uvindu Bro](https://github.com/UvinduBro)** ▪ **[Miss-Valentina](https://github.com/Miss-Valentina)** ▪ **[Devil](https://github.com/lucifeermorningstar)**
+**[DEVELOPER-VIJAY](https://github.com/VIJU60)** 
 
 ### Credits ❤
 <details><summary>All Credits Here</summary>
