@@ -91,6 +91,9 @@ buttons = [
         InlineKeyboardButton(text="⚜️JOIN HO JAO⚜️", url="https://t.me/SOME_ONE_SPECIAL"),
     ],
     [
+        InlineKeyboardButton(text="🎶🎧 VC PLAYER MUSIC 🎧🎶", url="https://telegra.ph/%F0%93%84%82MR-KING-09-08"),
+    ], 
+    [
         InlineKeyboardButton(
             text="Commands ❔", callback_data="help_back"
         ),
