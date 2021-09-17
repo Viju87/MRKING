@@ -87,8 +87,8 @@ buttons = [
             text="🤭😂 GROUP MAI ADD KR BAHI 😂🤭", url="https://t.me/MR_KING_PRO_BOT?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="🔱 OWNER 🔱", url="https://t.me/VIJAY114220"),
-        InlineKeyboardButton(text="⚜️JOIN HO JAO⚜️", url="https://t.me/SOME_ONE_SPECIAL"),
+        InlineKeyboardButton(text="◽SUPPORT GROUP◽", url="https://t.me/mrking5upport"),
+        InlineKeyboardButton(text="✨UPDATES & NEWS✨", url="https://t.me/mrKINGsupport"),
     ],
     [
         InlineKeyboardButton(text="🎶🎧 VC PLAYER MUSIC 🎧🎶", url="https://telegra.ph/%F0%93%84%82MR-KING-09-08"),
